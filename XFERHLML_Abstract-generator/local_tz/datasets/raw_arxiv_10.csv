@@ -1,0 +1,158 @@
+id,published_parsed,published,title,arxiv_primary_category,tags,summary
+http://arxiv.org/abs/cond-mat/0102536v1,"time.struct_time(tm_year=2001, tm_mon=2, tm_mday=28, tm_hour=20, tm_min=12, tm_sec=9, tm_wday=2, tm_yday=59, tm_isdst=0)",2001-02-28T20:12:09Z,Impact of Electron-Electron Cusp on Configuration Interaction Energies,cond-mat.str-el,['cond-mat.str-el'],"The effect of the electron-electron cusp on the convergence of configuration
+interaction (CI) wave functions is examined. By analogy with the
+pseudopotential approach for electron-ion interactions, an effective
+electron-electron interaction is developed which closely reproduces the
+scattering of the Coulomb interaction but is smooth and finite at zero
+electron-electron separation. The exact many-electron wave function for this
+smooth effective interaction has no cusp at zero electron-electron separation.
+We perform CI and quantum Monte Carlo calculations for He and Be atoms, both
+with the Coulomb electron-electron interaction and with the smooth effective
+electron-electron interaction. We find that convergence of the CI expansion of
+the wave function for the smooth electron-electron interaction is not
+significantly improved compared with that for the divergent Coulomb interaction
+for energy differences on the order of 1 mHartree. This shows that, contrary to
+popular belief, description of the electron-electron cusp is not a limiting
+factor, to within chemical accuracy, for CI calculations."
+http://arxiv.org/abs/astro-ph/0608371v1,"time.struct_time(tm_year=2006, tm_mon=8, tm_mday=17, tm_hour=14, tm_min=5, tm_sec=46, tm_wday=3, tm_yday=229, tm_isdst=0)",2006-08-17T14:05:46Z,"Electron thermal conductivity owing to collisions between degenerate
+  electrons",astro-ph,['astro-ph'],"We calculate the thermal conductivity of electrons produced by
+electron-electron Coulomb scattering in a strongly degenerate electron gas
+taking into account the Landau damping of transverse plasmons. The Landau
+damping strongly reduces this conductivity in the domain of ultrarelativistic
+electrons at temperatures below the electron plasma temperature. In the inner
+crust of a neutron star at temperatures T < 1e7 K this thermal conductivity
+completely dominates over the electron conductivity due to electron-ion
+(electron-phonon) scattering and becomes competitive with the the electron
+conductivity due to scattering of electrons by impurity ions."
+http://arxiv.org/abs/1802.06593v1,"time.struct_time(tm_year=2018, tm_mon=2, tm_mday=19, tm_hour=11, tm_min=51, tm_sec=42, tm_wday=0, tm_yday=50, tm_isdst=0)",2018-02-19T11:51:42Z,Electron pairing: from metastable electron pair to bipolaron,cond-mat.str-el,['cond-mat.str-el'],"Starting from the shell structure in atoms and the significant correlation
+within electron pairs, we distinguish the exchange-correlation effects between
+two electrons of opposite spins occupying the same orbital from the average
+correlation among many electrons in a crystal. In the periodic potential of the
+crystal with lattice constant larger than the effective Bohr radius of the
+valence electrons, these correlated electron pairs can form a metastable energy
+band above the corresponding single-electron band separated by an energy gap.
+In order to determine if these metastable electron pairs can be stabilized, we
+calculate the many-electron exchange-correlation renormalization and the
+polaron correction to the two-band system with single electrons and electron
+pairs. We find that the electron-phonon interaction is essential to
+counterbalance the Coulomb repulsion and to stabilize the electron pairs. The
+interplay of the electron-electron and electron-phonon interactions, manifested
+in the exchange-correlation energies, polaron effects, and screening, is
+responsible for the formation of electron pairs (bipolarons) that are located
+on the Fermi surface of the single-electron band."
+http://arxiv.org/abs/2010.01066v1,"time.struct_time(tm_year=2020, tm_mon=10, tm_mday=2, tm_hour=15, tm_min=46, tm_sec=56, tm_wday=4, tm_yday=276, tm_isdst=0)",2020-10-02T15:46:56Z,"Electron Temperature Anisotropy and Electron Beam Constraints From
+  Electron Kinetic Instabilities in the Solar Wind",physics.space-ph,['physics.space-ph'],"Electron temperature anisotropies and electron beams are nonthermal features
+of the observed nonequilibrium electron velocity distributions in the solar
+wind. In collision-poor plasmas these nonequilibrium distributions are expected
+to be regulated by kinetic instabilities through wave-particle interactions.
+This study considers electron instabilities driven by the interplay of core
+electron temperature anisotropies and the electron beam, and firstly gives a
+comprehensive analysis of instabilities in arbitrary directions to the
+background magnetic field. It clarifies the dominant parameter regime (e.g.,
+parallel core electron plasma beta $\beta_{\mathrm{ec\parallel}}$, core
+electron temperature anisotropy $A_{\mathrm{ec}}\equiv
+T_{\mathrm{ec\perp}}/T_{\mathrm{ec\parallel}}$, and electron beam velocity
+$V_{\mathrm{eb}}$) for each kind of electron instability (e.g., the electron
+beam-driven electron acoustic/magnetoacoustic instability, the electron
+beam-driven whistler instability, the electromagnetic electron cyclotron
+instability, the electron mirror instability, the electron firehose
+instability, and the ordinary-mode instability). It finds that the electron
+beam can destabilize electron acoustic/magnetoacoustic waves in the
+low-$\beta_{\mathrm{ec\parallel}}$ regime, and whistler waves in the medium-
+and large-$\beta_{\mathrm{ec\parallel}}$ regime. It also finds that a new
+oblique fast-magnetosonic/whistler instability is driven by the electron beam
+with $V_{\mathrm{eb}}\gtrsim7V_{\mathrm{A}}$ in a regime where
+$\beta_{\mathrm{ec\parallel}}\sim0.1-2$ and $A_{\mathrm{ec}}<1$. Moreover, this
+study presents electromagnetic responses of each kind of electron instability.
+These results provide a comprehensive overview for electron instability
+constraints on core electron temperature anisotropies and electron beams in the
+solar wind."
+http://arxiv.org/abs/1501.04914v1,"time.struct_time(tm_year=2015, tm_mon=1, tm_mday=20, tm_hour=18, tm_min=48, tm_sec=22, tm_wday=1, tm_yday=20, tm_isdst=0)",2015-01-20T18:48:22Z,"Hamiltonian of a many-electron system with single-electron and
+  electron-pair states in a two-dimensional periodic potential",cond-mat.supr-con,"['cond-mat.supr-con', 'cond-mat.mes-hall']","Based on the metastable electron-pair energy band in a two-dimensional (2D)
+periodic potential obtained previously by Hai and Castelano [J. Phys.: Condens.
+Matter 26, 115502 (2014)], we present in this work a Hamiltonian of many
+electrons consisting of single electrons and electron pairs in the 2D system.
+The electron-pair states are metastable of energies higher than those of the
+single-electron states at low electron density. We assume two different
+scenarios for the single-electron band. When it is considered as the lowest
+conduction band of a crystal, we compare the obtained Hamiltonian with the
+phenomenological model Hamiltonian of a boson-fermion mixture proposed by
+Friedberg and Lee [Phys. Rev. B 40, 6745 (1989)]. Single-electron-electron-pair
+and electron-pair-electron-pair interaction terms appear in our Hamiltonian and
+the interaction potentials can be determined from the electron-electron Coulomb
+interactions. When we consider the single-electron band as the highest valence
+band of a crystal, we show that holes in this valence band are important for
+stabilization of the electron-pair states in the system."
+http://arxiv.org/abs/0707.4225v1,"time.struct_time(tm_year=2007, tm_mon=7, tm_mday=28, tm_hour=9, tm_min=32, tm_sec=22, tm_wday=5, tm_yday=209, tm_isdst=0)",2007-07-28T09:32:22Z,"Electron-Electron Bremsstrahlung Emission and the Inference of Electron
+  Flux Spectra in Solar Flares",astro-ph,['astro-ph'],"Although both electron-ion and electron-electron bremsstrahlung contribute to
+the hard X-ray emission from solar flares, the latter is normally ignored. Such
+an omission is not justified at electron (and photon) energies above $\sim 300$
+keV, and inclusion of the additional electron-electron bremsstrahlung in
+general makes the electron spectrum required to produce a given hard X-ray
+spectrum steeper at high energies.
+  Unlike electron-ion bremsstrahlung, electron-electron bremsstrahlung cannot
+produce photons of all energies up to the maximum electron energy involved. The
+maximum possible photon energy depends on the angle between the direction of
+the emitting electron and the emitted photon, and this suggests a diagnostic
+for an upper cutoff energy and/or for the degree of beaming of the accelerated
+electrons.
+  We analyze the large event of January 17, 2005 observed by RHESSI and show
+that the upward break around 400 keV in the observed hard X-ray spectrum is
+naturally accounted for by the inclusion of electron-electron bremsstrahlung.
+Indeed, the mean source electron spectrum recovered through a regularized
+inversion of the hard X-ray spectrum, using a cross-section that includes both
+electron-ion and electron-electron terms, has a relatively constant spectral
+index $\delta$ over the range from electron kinetic energy $E = 200$ keV to $E
+= 1$ MeV. However, the level of detail discernible in the recovered electron
+spectrum is not sufficient to determine whether or not any upper cutoff energy
+exists."
+http://arxiv.org/abs/astro-ph/9904306v1,"time.struct_time(tm_year=1999, tm_mon=4, tm_mday=22, tm_hour=15, tm_min=54, tm_sec=59, tm_wday=3, tm_yday=112, tm_isdst=0)",1999-04-22T15:54:59Z,Improved scenario of baryogenesis,astro-ph,['astro-ph'],"It is assumed that, in the primordial plasma, at the temperatures above the
+mass of electron, fermions are in the neutral state being the superposition of
+particle and antiparticle. There exists neutral proton-electron symmetry.
+Proton-electron equilibrium is defined by the proton-electron mass difference.
+At the temperature equal to the mass of electron, pairs of neutral electrons
+annihilate into photons, and pairs of neutral protons and electrons survive as
+protons and electrons."
+http://arxiv.org/abs/cond-mat/0310615v1,"time.struct_time(tm_year=2003, tm_mon=10, tm_mday=27, tm_hour=8, tm_min=59, tm_sec=2, tm_wday=0, tm_yday=300, tm_isdst=0)",2003-10-27T08:59:02Z,"Exact Electron-Pairing Ground States of Tight-Binding Models with Local
+  Attractive Interactions",cond-mat.str-el,['cond-mat.str-el'],"We present a class of exactly solvable models of correlated electrons. The
+models are defined in any dimension $d$ and consist of electron-hopping terms
+and local attractive interactions between electrons. For each even number of
+electrons less than or equal to $1/(d+1)$-filling, we find the exact ground
+state in which all electrons form pairs of a certain type, and thus the models
+exhibit an electron-pair condensation."
+http://arxiv.org/abs/2101.10508v1,"time.struct_time(tm_year=2021, tm_mon=1, tm_mday=26, tm_hour=1, tm_min=15, tm_sec=10, tm_wday=1, tm_yday=26, tm_isdst=0)",2021-01-26T01:15:10Z,"Insights into the Electron-Electron Interaction from Quantum Monte Carlo
+  Calculations",cond-mat.quant-gas,"['cond-mat.quant-gas', 'cond-mat.mtrl-sci', 'cond-mat.str-el']","The effective electron-electron interaction in the electron gas depends on
+both the density and spin local field factors. Variational Diagrammatic Quantum
+Monte Carlo calculations of the spin local field factor are reported and used
+to quantitatively present the full spin-dependent, electron-electron
+interaction. Together with the charge local field factor from previous
+Diffusion Quantum Monte Carlo calculations, we obtain the complete form of the
+effective electron-electron interaction in the uniform three-dimensional
+electron gas. Very simple quadratic formulas are presented for the local field
+factors that quantitatively produce all of the response functions of the
+electron gas at metallic densities.
+  Exchange and correlation become increasingly important at low densities. At
+the compressibility divergence at rs = 5.25, both the direct (screened Coulomb)
+term and the charge-dependent exchange term in the electron-electron
+interaction at q=0 are separately divergent. However, due to large
+cancellations, their difference is finite, well behaved, and much smaller than
+either term separately. As a result, the spin contribution to the
+electron-electron interaction becomes an important factor. The static
+electron-electron interaction is repulsive as a function of density but is less
+repulsive for electrons with parallel spins.
+  The effect of allowing a deformable, rather than rigid, positive background
+is shown to be as quantitatively important as exchange and correlation. As a
+simple concrete example, the electron-electron interaction is calculated using
+the measured bulk modulus of the alkali metals with a linear phonon dispersion.
+The net electron-electron interaction in lithium is attractive for wave vectors
+$0-2k_F$, which suggests superconductivity, and is mostly repulsive for the
+other alkali metals."
+http://arxiv.org/abs/cond-mat/0205001v1,"time.struct_time(tm_year=2002, tm_mon=4, tm_mday=30, tm_hour=20, tm_min=0, tm_sec=18, tm_wday=1, tm_yday=120, tm_isdst=0)",2002-04-30T20:00:18Z,"Electron-electron interactions in a weakly screened two-dimensional
+  electron system",cond-mat.str-el,['cond-mat.str-el'],"We probe the strength of electron-electron interactions using
+magnetoconductivity measurements of two-dimensional non-degenerate electrons on
+liquid helium at 1.22 K. Our data extend to electron densities that are two
+orders of magnitude smaller than previously reported. We span both the
+independent-electron regime where the data are qualitatively described by the
+self-consistent Born approximation (SCBA), and the strongly-interacting
+electron regime. At finite fields we observe a crossover from SCBA to Drude
+theory as a function of electron density."
